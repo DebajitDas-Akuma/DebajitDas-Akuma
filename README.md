@@ -4,9 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d0d1a,30:1a1a3e,60:2d1b69,100:0d0d1a&text=Debajit%20Das%20Akuma&fontColor=c9b8ff&fontSize=52&animation=fadeIn&fontAlignY=38&desc=AI%20%E2%80%A2%20Robotics%20%E2%80%A2%20Physics%20%E2%80%A2%20Code&descAlignY=58&descSize=20&descColor=8b6fd4" width="100%" />
 
 <!-- LIVE TYPING -->
-<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Debajit%2C+a+Student+;AI+%E2%80%A2+Robotics+%E2%80%A2+Physics+%E2%80%A2+Coding" alt="Typing SVG" />
-</div>
 
 <!-- COSMIC DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -39,10 +37,10 @@ class DebajitDas:
 <div align="center">
 
 ### Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,js,html,css,git,linux,vscode,github,arduino&theme=dark)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,git,linux,vscode,github,arduino&theme=dark" />
 
 ### Currently Exploring
-[![Exploring](https://skillicons.dev/icons?i=mysql,firebase,raspberrypi&theme=dark)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=mysql,firebase,raspberrypi&theme=dark" />
 
 </div>
 
@@ -54,8 +52,8 @@ class DebajitDas:
 
 | 🏷️ Project | 📝 Description | 🔗 Link |
 |:---:|:---:|:---:|
-| ⚔️ **Kyron Esports** | Free Fire & BGMI tournament management platform built with Firebase | [![GitHub](https://img.shields.io/badge/GitHub-View-a78bfa?style=flat-square&logo=github)](https://github.com/DebajitDas-Akuma) |
-| 📚 **Tripura Scholar** | Student book marketplace for buying, selling & renting books in Tripura | [![GitHub](https://img.shields.io/badge/GitHub-View-a78bfa?style=flat-square&logo=github)](https://github.com/DebajitDas-Akuma) |
+| ⚔️ **Kyron Esports** | Free Fire & BGMI tournament management platform built with Firebase | ![GitHub](https://img.shields.io/badge/GitHub-View-a78bfa?style=flat-square&logo=github) |
+| 📚 **Tripura Scholar** | Student book marketplace for buying, selling & renting books in Tripura | ![GitHub](https://img.shields.io/badge/GitHub-View-a78bfa?style=flat-square&logo=github) |
 | 🤖 **Robotics Projects** | Autonomous systems & robotics code — *coming soon* | 🔒 Coming Soon |
 
 </div>
@@ -68,6 +66,8 @@ class DebajitDas:
 
 <img src="https://github-readme-stats.vercel.app/api?username=DebajitDas-Akuma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=c9b8ff&ring_color=7c3aed" height="180em"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DebajitDas-Akuma&theme=tokyonight&hide_border=true&background=0d0d1a&ring=a78bfa&fire=7c3aed&currStreakLabel=c9b8ff" height="180em"/>
+
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebajitDas-Akuma&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=c9b8ff" height="160em"/>
 
@@ -109,7 +109,7 @@ class DebajitDas:
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" />
 
 </div>
 
@@ -123,7 +123,7 @@ class DebajitDas:
 
 <br/><br/>
 
-[![Visit Count](https://visitcount.itsvg.in/api?id=DebajitDas-Akuma&label=Profile%20Views&color=10&icon=5&pretty=true)](https://visitcount.itsvg.in)
+<img src="https://visitcount.itsvg.in/api?id=DebajitDas-Akuma&label=Profile%20Views&color=10&icon=5&pretty=true" />
 
 </div>
 
