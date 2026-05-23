@@ -1,86 +1,151 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=Debajit%20Das%20Akuma&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38" width="100%" />
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Debajit</h1>
+<!-- COSMIC HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d0d1a,30:1a1a3e,60:2d1b69,100:0d0d1a&text=Debajit%20Das%20Akuma&fontColor=c9b8ff&fontSize=52&animation=fadeIn&fontAlignY=38&desc=AI%20%E2%80%A2%20Robotics%20%E2%80%A2%20Physics%20%E2%80%A2%20Code&descAlignY=58&descSize=20&descColor=8b6fd4" width="100%" />
 
-<h3 align="center">
-AI • Robotics • Physics • Coding
-</h3>
+<!-- LIVE TYPING -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&height=60&lines=🚀+AI+Developer+%26+Robotics+Enthusiast;🌌+Building+Futuristic+Projects;⚡+Physics+%7C+Psychology+%7C+Startups;♟+Chess+Player+%7C+Future+Engineer;💡+Turning+Ideas+Into+Reality" alt="Typing SVG" />
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?lines=AI+Developer;Robotics+Enthusiast;Future+Engineer;Building+Cool+Projects&center=true&width=500&height=50&color=58A6FF" />
-</p>
+<!-- COSMIC DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
-
-# 🚀 About Me
-
-- 🔭 Currently learning AI & Robotics
-- 🧠 Interested in Physics, Psychology & Startups
-- ⚡ Building futuristic projects
-- ♟ Chess enthusiast
-- 🎯 Goal: Become financially independent through technology
+</div>
 
 ---
 
-# 🛠 Tech Stack
+## 🌌 About Me
 
-<p align="center">
+```python
+class DebajitDas:
+    name       = "Debajit Das Akuma"
+    location   = "Tripura, India 🇮🇳"
+    interests  = ["AI", "Robotics", "Physics", "Psychology", "Startups"]
+    hobbies    = ["Chess ♟", "Building cool projects", "Breaking things & fixing them"]
+    goal       = "Become financially independent through technology 🚀"
+    currently  = "Learning AI & Robotics | Building futuristic projects"
+    fun_fact   = "I think in code and dream in algorithms 🌌"
+```
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,js,html,css,git,linux,vscode,github)](https://skillicons.dev)
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DebajitDas-Akuma&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DebajitDas-Akuma&theme=tokyonight&hide_border=true" height="180em"/>
-
-</p>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ---
 
-# 📈 Contribution Graph
+## 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DebajitDas-Akuma&theme=tokyo-night&hide_border=true"/>
+### Languages & Tools
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,js,html,css,git,linux,vscode,github&theme=dark)](https://skillicons.dev)
 
-</p>
+### Currently Exploring
+[![Exploring](https://skillicons.dev/icons?i=tensorflow,arduino,raspberrypi,firebase,react&theme=dark)](https://skillicons.dev)
 
----
-
-# 🚀 Featured Projects
-
-## 🔹 Project 1
-- Description here
-
-## 🔹 Project 2
-- Description here
-
-## 🔹 Project 3
-- Description here
+</div>
 
 ---
 
-# 🌐 Connect With Me
+## 🚀 Featured Projects
 
-<p align="center">
+<div align="center">
 
-<a href="https://github.com/DebajitDas-Akuma">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+| 🏷️ Project | 📝 Description | 🔗 Link |
+|:---:|:---:|:---:|
+| ⚔️ **Kyron Esports** | Free Fire & BGMI tournament management platform built with Firebase | [![GitHub](https://img.shields.io/badge/GitHub-View-a78bfa?style=flat-square&logo=github)](https://github.com/DebajitDas-Akuma) |
+| 📚 **Tripura Scholar** | Student book marketplace for buying, selling & renting books in Tripura | [![GitHub](https://img.shields.io/badge/GitHub-View-a78bfa?style=flat-square&logo=github)](https://github.com/DebajitDas-Akuma) |
+| 🤖 **Robotics Projects** | Autonomous systems & robotics code — *coming soon* | 🔒 Coming Soon |
 
-</p>
+</div>
 
 ---
 
-<p align="center">
+## 📊 GitHub Stats
 
-<img src="https://komarev.com/ghpvc/?username=DebajitDas-Akuma&label=Profile%20Views&color=0e75b6&style=flat" />
+<div align="center">
 
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=DebajitDas-Akuma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=c9b8ff&ring_color=7c3aed" height="180em"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DebajitDas-Akuma&theme=tokyonight&hide_border=true&background=0d0d1a&ring=a78bfa&fire=7c3aed&currStreakLabel=c9b8ff" height="180em"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebajitDas-Akuma&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=c9b8ff" height="160em"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=DebajitDas-Akuma&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DebajitDas-Akuma&theme=tokyo-night&hide_border=true&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=c9b8ff" width="100%"/>
+
+</div>
+
+---
+
+## 🧠 LeetCode Stats
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/DebajitDas-Akuma?theme=dark&font=Orbitron&ext=contest&border=0&radius=10" width="500px"/>
+
+</div>
+
+---
+
+## 💬 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)
+
+</div>
+
+---
+
+## 🌍 Visitor Map
+
+<div align="center">
+
+<img src="https://profile-counter.glitch.me/DebajitDas-Akuma/count.svg" alt="Visitor Count"/>
+
+<br/><br/>
+
+[![Visit Count](https://visitcount.itsvg.in/api?id=DebajitDas-Akuma&label=Profile%20Views&color=10&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-DebajitDas--Akuma-a78bfa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DebajitDas-Akuma)
+[![Instagram](https://img.shields.io/badge/Instagram-_debajit__ackerman_-7c3aed?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_debajit_ackerman_)
+[![LeetCode](https://img.shields.io/badge/LeetCode-DebajitDas--Akuma-a78bfa?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/DebajitDas-Akuma)
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- COSMIC FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0d0d1a,50:2d1b69,100:0d0d1a&section=footer&text=Thanks%20for%20visiting!&fontColor=a78bfa&fontSize=24&animation=fadeIn&fontAlignY=65" width="100%" />
+
+*⭐ Star my repos if you find them useful — it means the world! 🌌*
+
+</div>
