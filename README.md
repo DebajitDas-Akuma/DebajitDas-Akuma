@@ -16,6 +16,7 @@ AI • Robotics • Physics • Coding
 ---
 
 ## 🛠 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,js,html,css,git,linux)](https://skillicons.dev)
 
 ---
 
