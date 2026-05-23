@@ -130,7 +130,7 @@ class DebajitDas:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-DebajitDas--Akuma-a78bfa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DebajitDas-Akuma)
-[![Instagram](https://img.shields.io/badge/Instagram-_debajit__stark_-7c3aed?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_debajit_stark_)
+[![Instagram](https://img.shields.io/badge/Instagram-_debajit_ackerman_-7c3aed?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_debajit_stark_)
 [![LeetCode](https://img.shields.io/badge/LeetCode-DebajitDas--Akuma-a78bfa?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/DebajitDas-Akuma)
 
 </div>
