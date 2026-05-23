@@ -5,7 +5,7 @@
 
 <!-- LIVE TYPING -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Debajit+;AI+%E2%80%A2+Robotics+%E2%80%A2+Physics+%E2%80%A2+Coding" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Debajit%2C+a+Student+;AI+%E2%80%A2+Robotics+%E2%80%A2+Physics+%E2%80%A2+Coding" alt="Typing SVG" />
 </div>
 
 <!-- COSMIC DIVIDER -->
