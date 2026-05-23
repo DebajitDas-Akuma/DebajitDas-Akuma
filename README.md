@@ -7,8 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&height=60&lines=🚀+AI+Developer+%26+Robotics+Enthusiast;🌌+Building+Futuristic+Projects;⚡+Physics+%7C+Psychology+%7C+Startups;♟+Chess+Player+%7C+Future+Engineer;💡+Turning+Ideas+Into+Reality" alt="Typing SVG" />
 
 <!-- COSMIC DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Debajit+;AI+%E2%80%A2+Robotics+%E2%80%A2+Physics+%E2%80%A2+Coding" alt="Typing SVG" />
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Debajit+;AI+%E2%80%A2+Robotics+%E2%80%A2+Physics+%E2%80%A2+Coding" alt="Typing SVG" /></div>
 </div>
 
 ---
