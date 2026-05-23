@@ -69,8 +69,6 @@ class DebajitDas:
 <img src="https://github-readme-stats.vercel.app/api?username=DebajitDas-Akuma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=c9b8ff&ring_color=7c3aed" height="180em"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DebajitDas-Akuma&theme=tokyonight&hide_border=true&background=0d0d1a&ring=a78bfa&fire=7c3aed&currStreakLabel=c9b8ff" height="180em"/>
 
-<br/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebajitDas-Akuma&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=c9b8ff" height="160em"/>
 
 </div>
