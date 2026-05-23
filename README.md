@@ -4,7 +4,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d0d1a,30:1a1a3e,60:2d1b69,100:0d0d1a&text=Debajit%20Das%20Akuma&fontColor=c9b8ff&fontSize=52&animation=fadeIn&fontAlignY=38&desc=AI%20%E2%80%A2%20Robotics%20%E2%80%A2%20Physics%20%E2%80%A2%20Code&descAlignY=58&descSize=20&descColor=8b6fd4" width="100%" />
 
 <!-- LIVE TYPING -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Debajit+;AI+%E2%80%A2+Robotics+%E2%80%A2+Physics+%E2%80%A2+Coding)](https://git.io/typing-svg)
+<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Debajit+;AI+%E2%80%A2+Robotics+%E2%80%A2+Physics+%E2%80%A2+Coding)](https://git.io/typing-svg) </div>
 
 <!-- COSMIC DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
