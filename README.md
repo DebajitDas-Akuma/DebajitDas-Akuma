@@ -65,7 +65,7 @@ class DebajitDas:
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=DebajitDas-Akuma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=c9b8ff&ring_color=7c3aed" height="180em"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DebajitDas-Akuma&theme=tokyonight&hide_border=true&background=0d0d1a&ring=a78bfa&fire=7c3aed&currStreakLabel=c9b8ff" height="180em"/>
+<img src="https://streak-stats.demolab.com?user=DebajitDas-Akuma&theme=tokyonight&hide_border=true&background=0d0d1a&ring=a78bfa&fire=7c3aed&currStreakLabel=c9b8ff" height="180em"/>
 
 <br/>
 
@@ -115,15 +115,11 @@ class DebajitDas:
 
 ---
 
-## 🌍 Visitor Map
+## 👁️ Profile Views
 
 <div align="center">
 
-<img src="https://profile-counter.glitch.me/DebajitDas-Akuma/count.svg" alt="Visitor Count"/>
-
-<br/><br/>
-
-<img src="https://visitcount.itsvg.in/api?id=DebajitDas-Akuma&label=Profile%20Views&color=10&icon=5&pretty=true" />
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDebajitDas-Akuma&count_bg=%237C3AED&title_bg=%230d0d1a&icon=github&icon_color=%23A78BFA&title=Profile+Views&edge_flat=false" />
 
 </div>
 
@@ -134,7 +130,7 @@ class DebajitDas:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-DebajitDas--Akuma-a78bfa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DebajitDas-Akuma)
-[![Instagram](https://img.shields.io/badge/Instagram-_debajit__ackerman_-7c3aed?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_debajit_ackerman_)
+[![Instagram](https://img.shields.io/badge/Instagram-_debajit__stark_-7c3aed?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_debajit_stark_)
 [![LeetCode](https://img.shields.io/badge/LeetCode-DebajitDas--Akuma-a78bfa?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/DebajitDas-Akuma)
 
 </div>
