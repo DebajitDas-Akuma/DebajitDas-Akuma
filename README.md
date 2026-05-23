@@ -37,10 +37,10 @@ class DebajitDas:
 <div align="center">
 
 ### Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,js,html,css,git,linux,vscode,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,js,html,css,git,linux,vscode,github,arduino&theme=dark)](https://skillicons.dev)
 
 ### Currently Exploring
-[![Exploring](https://skillicons.dev/icons?i=tensorflow,arduino,raspberrypi,firebase,react&theme=dark)](https://skillicons.dev)
+[![Exploring](https://skillicons.dev/icons?i=mysql,firebase,raspberrypi&theme=dark)](https://skillicons.dev)
 
 </div>
 
